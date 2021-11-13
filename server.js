@@ -8,3 +8,4 @@ const app = express();
 //dodanie kolejnych zmian
 
 //zmiany na nowej galezi
+//dodanie kolejnych zmian na nowej galezi
